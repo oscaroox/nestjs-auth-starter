@@ -1,0 +1,28 @@
+{
+  "jsc": {
+    "parser": {
+      "syntax": "typescript",
+      "tsx": false,
+      "decorators": true,
+      "dynamicImport": true
+    },
+    "transform": {
+      "legacyDecorator": true,
+      "decoratorMetadata": true
+    },
+    "target": "es2016",
+    "baseUrl": "./src",
+    "paths": {
+      "@modules/*": ["./modules/*"],
+      "@common/*": ["./common/*"],
+      "@config/*": ["./config/*"],
+      "@jobs/*": ["./jobs/*"],
+      "@database/*": ["./database/*"],
+      "@providers/*": ["./providers/*"],
+      "@test/*": ["../test/*"]
+    }
+  },
+  "module": {
+    "type": "commonjs"
+  }
+}

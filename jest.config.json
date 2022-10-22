@@ -1,0 +1,7 @@
+{
+  "transform": {
+    "^.+\\.(t|j)sx?$": ["@swc/jest"]
+  },
+  "modulePathIgnorePatterns": ["<rootDir>/build/"],
+  "setupFilesAfterEnv": ["<rootDir>/test/jest.setup.ts"]
+}

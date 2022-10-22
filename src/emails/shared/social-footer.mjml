@@ -1,0 +1,9 @@
+<mj-section background-repeat="repeat" background-color="transparent" background-size="auto" padding-bottom="0px" padding-top="20px" padding="20px 0px 20px 0px" text-align="center">
+    <mj-column>
+    <mj-social align="center" border-radius="6px" font-family="Ubuntu, Helvetica, Arial, sans-serif" font-size="13px" icon-size="30px" line-height="22px" mode="horizontal" padding-bottom="0px" padding="10px 25px">
+        <mj-social-element background-color="#DEDEDE" name="facebook-noshare" src="http://saas-templates-creator.mailjet.com/saas-templates-creator/static/img/facebook_black.png"></mj-social-element>
+        <mj-social-element background-color="#DEDEDE" name="twitter-noshare" src="http://saas-templates-creator.mailjet.com/saas-templates-creator/static/img/twitter_black.png"></mj-social-element>
+        <mj-social-element background-color="#DEDEDE" name="linkedin-noshare" src="http://saas-templates-creator.mailjet.com/saas-templates-creator/static/img/linkedin_black.png"></mj-social-element>
+    </mj-social>
+    </mj-column>
+</mj-section>

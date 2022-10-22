@@ -1,0 +1,10 @@
+<mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 0" text-align="center">
+    <mj-column>
+    <mj-divider border-color="green" border-style="solid" border-width="7px" padding-left="0px" padding-right="0px" width="100%"></mj-divider>
+    </mj-column>
+</mj-section>
+<mj-section background-color="#ffffff" text-align="center">
+    <mj-column>
+    <mj-image src="https://cdn.cdnlogo.com/logos/s/28/shopee.svg" width="150px" />
+    </mj-column>
+</mj-section>
